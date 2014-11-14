@@ -8,12 +8,12 @@
 
 Summary:	Strigi Analyzers
 Name:		kde4-%{orgname}
-Version:	4.14.0
+Version:	4.14.3
 Release:	1
 License:	GPL
 Group:		X11/Development/Tools
 Source0:	http://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	98a05e6943b4005fef7c687b9c635c2a
+# Source0-md5:	fb9f07e55f0d8efb061fe282ba876b36
 URL:		http://www.kde.org/
 BuildRequires:	QtNetwork-devel >= %{qtver}
 BuildRequires:	QtScriptTools-devel >= %{qtver}
